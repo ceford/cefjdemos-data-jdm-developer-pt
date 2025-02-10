@@ -389,7 +389,7 @@ Colapso é amplamente utilizado no Joomla e você pode não precisar usar um mó
 
 Resultado:
 
-![Bootstrap collaps](../../../en/images/coding-examples/coding-examples-collapse.png)
+![Bootstrap collapse](../../../en/images/coding-examples/coding-examples-collapse.png)
 
 ### Exemplo 5: Menu Suspenso
 
@@ -585,7 +585,7 @@ Resultado:
 
 Os passos envolvidos:
 
-- Baixe, instale e ative este plugin: [](https://github.com/ceford/j4xdemos-plg-bscompos/raw/master/plg_j4xdemos_bscompos.zip)
+- Baixe, instale e ative este [plugin](https://github.com/ceford/j4xdemos-plg-bscompos/raw/master/plg_j4xdemos_bscompos.zip)
 - No artigo, adicione o texto sobre o qual o plugin atua, por exemplo, {bscompos modal carousel} acionará o carregamento do JavaScript necessário para suportar um diálogo modal e um carrossel. O plugin remove o texto de disparo e as tags vazias (agora) envolventes.
 - Inclua o código HTML do Componente Bootstrap diretamente no artigo ou em um módulo incluído no artigo. Há um exemplo de código HTML abaixo para um Modal simples e um Modal contendo um Carrossel. Note que isso não funcionará se o código HTML estiver em um módulo em uma localização de template.
 - Isso também funcionará para um módulo Custom padrão se a Opção Preparar Conteúdo estiver definida como Sim.
@@ -784,4 +784,3 @@ Este código busca nomes de classes definidos em mod_custom e faz a chamada do H
 ![Bootstrap modal carousel](../../../en/images/coding-examples/coding-examples-modal-carousel.png)
 
 *Traduzido por openai.com*
-
