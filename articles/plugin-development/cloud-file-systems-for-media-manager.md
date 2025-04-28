@@ -14,7 +14,7 @@ Joomla!  4.x
 
 **Joomla! 4.x** é fornecido com sistemas de arquivos em nuvem para o **Media Manager** por padrão. Com a API anterior, criar sistemas de arquivos personalizados era uma tarefa difícil. Graças à nova API, agora é fácil criar um sistema de arquivos personalizado. Se você quiser usar um Serviço de Nuvem com o novo Media Manager, é recomendado usar **OAuth2.0**.
 
-Este documento irá guiá-lo através de etapas importantes para criar seu próprio **Plugin de Sistema de Arquivos** para estender o **Gerenciador de Mídia**. Antes de prosseguir, certifique-se de ter o conhecimento básico sobre como desenvolver um plugin para Joomla. [Este tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla "Special:MyLanguage/J3.x:Creating a Plugin for Joomla") deve ajudar.
+Este documento irá guiá-lo através de etapas importantes para criar seu próprio **Plugin de Sistema de Arquivos** para estender o **Gerenciador de Mídia**. Antes de prosseguir, certifique-se de ter o conhecimento básico sobre como desenvolver um plugin para Joomla. [Este tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla) deve ajudar.
 
 ## Crie seu plugin de sistema de arquivos
 
